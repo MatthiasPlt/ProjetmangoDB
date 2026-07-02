@@ -9,7 +9,7 @@ Le projet est découpé en plusieurs couches distinctes :
 
 ---
 
-## 🚀 Guide d'Installation et de Lancement
+##  Guide d'Installation et de Lancement
 
 Suivez ces étapes dans l'ordre pour exécuter le projet parfaitement sur votre machine.
 

@@ -5,7 +5,7 @@ import datetime
 import random
 
 
-uri= "mongodb+srv://Matt:Matthias@cluster0.mnr1sl1.mongodb.net/"
+uri= "mongodb+srv://<username>:<password>@cluster0.mnr1sl1.mongodb.net/"
 client = MongoClient(uri, tlsCAFile=certifi.where())
 db = client["talabat_db"]
 

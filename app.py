@@ -129,6 +129,5 @@ def get_global_stats():
 
 
 if __name__ == '__main__':
-    # Lancement du serveur API Flask sur le port 5000
     print("Lancement de l'API Talabat Logistics...")
     app.run(debug=True, port=5000)
